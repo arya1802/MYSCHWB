@@ -1,0 +1,14 @@
+body{
+    color: white;
+}
+.header{
+    background-color: black;
+    color: blueviolet;
+    display: flex;
+    justify-content: space-between;
+    }   
+     .sitedis{
+margin: 600px;
+
+     }
+     
